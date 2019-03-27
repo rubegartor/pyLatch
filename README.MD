@@ -2,6 +2,14 @@
 ![https://img.shields.io/badge/Python-3.6%20%7C%203.7-blue.svg](https://img.shields.io/badge/Python-3.6%20%7C%203.7-blue.svg) ![https://img.shields.io/badge/version-1.0.0-orange.svg](https://img.shields.io/badge/version-v1.0.0-orange.svg) ![https://img.shields.io/badge/API%20Version-v1.3-brightgreen.svg](https://img.shields.io/badge/API%20Version-v1.3-brightgreen.svg)
 
 A simple and basic API wrapper for Latch written in Python
+
+## Installation
+```bash
+# Windows
+python -m pip install pyLatch
+#Linux/OS X
+python3 -m pip install pyLatch
+```
 ## Code Examples
 **Basic code:**
 ```python
